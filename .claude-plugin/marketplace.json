@@ -1,0 +1,7 @@
+{
+  "name": "orange-local",
+  "owner": { "name": "Tigran Andrian" },
+  "plugins": [
+    { "name": "orange", "source": "./" }
+  ]
+}
